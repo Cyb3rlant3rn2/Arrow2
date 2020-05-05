@@ -1,0 +1,1026 @@
+[-]http://www.youtube.com  not http     200
+
+[+]subdomain found http://accounts.youtube.com 404
+
+[-]http://admin.youtube.com  not http     200
+
+[-]http://admin-green-qa.youtube.com  not http     200
+
+[-]http://admin-release-qa.youtube.com  not http     200
+
+[-]http://ads.youtube.com  not http     200
+
+[-]http://analytics.youtube.com  not http     200
+
+[+]subdomain found http://artists.youtube.com 200
+http://c.youtube.com  req not possible
+http://cache1.c.youtube.com  req not possible
+
+[+]subdomain found http://v1.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t11.v1.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v11.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v13.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v14.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v16.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v17.cache1.c.youtube.com 404
+
+[+]subdomain found http://v2.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t14.v2.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t18.v2.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v20.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.etisalat-dxb2.tc.v22.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lvlt-iad1.tc.v22.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v23.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fasttelco-kwi1.tc.v23.cache1.c.youtube.com 404
+
+[+]subdomain found http://v3.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bru02t11.v3.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t18.v3.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.iad23t01.v3.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lax04t08.v3.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v3.cache1.c.youtube.com 404
+
+[+]subdomain found http://v4.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t11.v4.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v4.cache1.c.youtube.com 404
+
+[+]subdomain found http://v5.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t11.v5.cache1.c.youtube.com 404
+
+[+]subdomain found http://v6.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.cbf01t01.v6.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v6.cache1.c.youtube.com 404
+
+[+]subdomain found http://v7.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bru02t13.v7.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t12.v7.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed5.tc.v7.cache1.c.youtube.com 404
+
+[+]subdomain found http://v8.cache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07t11.v8.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v8.cache1.c.youtube.com 404
+
+[+]subdomain found http://tc.v9.cache1.c.youtube.com 404
+http://lscache1.c.youtube.com  req not possible
+
+[+]subdomain found http://v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07s04.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.iad09s10.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.kddi-hnd2.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mena-bah1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nuq04s10.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nuq04s12.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.qtel-doh1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.shaw-yyc1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sn-35153iuxa-unxe.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed3.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh5.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh7.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh8.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stcigw-ruh1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.svo01s01.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tfn-tpe1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tpginternet-syd1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.viva-bah1.v1.lscache1.c.youtube.com 404
+
+[+]subdomain found http://v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03s11.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams04s07.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bskyb-lba1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.btcl-dac1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.cablenet-isp2.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hkbn-hkg1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hkg03s05.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.kddi-hnd1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr14s07.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr14s15.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mad01s04.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mobily-jed1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nrt19s06.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.qtel-doh1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s03.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed6.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh5.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.svo01s02.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.turktelekom-sof1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.xo-dfw1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zainba-bah1.v10.lscache1.c.youtube.com 404
+
+[+]subdomain found http://v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.dfw06s08.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ecix-dus2.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra02s01.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr14s13.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ord12s19.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sjc07s15.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed6.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh7.v11.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03g05.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atl14s18.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bom03s03.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.cablevisionmx-mex1.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra02s01.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.globe-mnl1.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr14s15.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.megafon-kuf1.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s07.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh2.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh7.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.teksavvy-xcm1.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tiws-mia4.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zajil-kwi1.v12.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.att-ord1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.batelco-bah1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bskyb-lcy1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.etisalat-auh1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hansenet-dus1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hkbn-hkg1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.kddi-hnd2.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr07s13.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mena-bah1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nuq04s12.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.rogers-yyz1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sjc07s11.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh7.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tfn-tpe1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zain-kwi1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zainba-bah1.v13.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atheeb-ruh1.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.etisalat-auh1.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr07s13.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ptremala-cgk1.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.qualitynet-kwi1.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s03.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sn-35153iuxa-unxe.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed4.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed5.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed6.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed8.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh7.v14.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.comcast-den1.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.comstar-svo1.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.gulfnet-kwi1.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.led01s01.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mena-bah1.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nrt19s05.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ord12s05.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh2.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh4.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh7.v15.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03s07.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.awal-ruh1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bellcanada-yul1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bezeq-tlv1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.google-bru1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.linkdotnet-cai1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.omantel-mct1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.orange-mrs1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.rogers-yyz1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed2.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh5.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh8.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stcigw-ruh1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.viva-bah1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.wataniya-kwi1.v16.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.algerietelecom-alg1.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.att-ord1.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bom03s03.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.comstar-svo1.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.dfw06s20.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.du-dxb1.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra02s07.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07s20.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.kazakhtel-tse1.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.qtel-doh1.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.softbankbb-hnd1.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.softbankbb-hnd4.v17.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03s09.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bskyb-lba2.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.globe-mnl1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hkbn-hkg1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mobily-ruh1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.netia-waw1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.qualitynet-kwi1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s07.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sjc07s11.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed8.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh2.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tiws-mia1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.viva-bah1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.viva-kwi1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zajil-kwi1.v18.lscache1.c.youtube.com 404
+
+[+]subdomain found http://v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr07s13.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.megacable-xal1.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nuq04s10.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed2.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh2.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh4.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh5.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh8.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tm-jhb1.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.uninet-mex1.v2.lscache1.c.youtube.com 404
+
+[+]subdomain found http://v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03g05.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atheeb-jed1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atheeb-ruh1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fasttelco-kwi1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hkbn-hkg3.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lax02s11.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lax02s13.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr14s14.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.par03g05.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed8.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh2.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tm-jhb1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.turktelekom-sof1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.uninet-pbc1.v20.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03g05.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hansenet-dus1.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr14s07.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mad01s04.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mil01s08.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.prg01s01.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed4.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed8.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.telkom-cpt1.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.uninet-mex1.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zainba-bah1.v21.lscache1.c.youtube.com 404
+
+[+]subdomain found http://v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03s16.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bskyb-lba2.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bskyb-lhr1.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.citelecom-abj1.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.etisalat-auh1.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hansenet-dus1.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mobily-ruh1.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed3.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed6.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh4.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh5.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh7.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.svo01s01.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.uninet-mex10.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.uninet-mex5.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.yemennet-sah1.v22.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.belwue-str1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fasttelco-kwi1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07s17.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hansenet-dus1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hkbn-hkg1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mobily-ruh1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nrt19s15.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.rogers-yyz1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s06.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s07.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tiws-par6.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.viva-kwi1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zainba-bah1.v23.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atheeb-ruh1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bezeq-tlv2.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bom03s03.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fasttelco-kwi1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.flow-pos1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra02s03.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07g03.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.gulfnet-kwi1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mena-bah1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.pldt-mnl1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed7.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed8.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stcigw-ruh1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.uninet-mex1.v24.lscache1.c.youtube.com 404
+
+[+]subdomain found http://v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atl14s17.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.cableonda-pty1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.cogeco-yhm1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.etisalat-auh1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra02s05.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lax04s12.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lime-bgi1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mia05s05.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mil01s15.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mobily-jed1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nordunet-arn1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nuq04s12.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed4.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed7.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh4.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh5.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stcigw-ruh1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ukrtelecom-kbp1.v3.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.batelco-bah1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.cablevisionmx-mex1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.codetel-sdq1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.dfw06g05.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.hansenet-dus1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lhr07s13.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lis01s04.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mobily-ruh1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.pttelkom-cgk1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s03.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.shaw-yvr1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh4.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.tiws-par5.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.xo-lax1.v4.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.cogeco-yhm1.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.comteco-cbb1.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra02s05.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.kddi-hnd1.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.kix01s05.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.led01s01.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.mobily-ruh1.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nrt19s15.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s03.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s04.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sin01s06.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh2.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.turktelekom-sof1.v5.lscache1.c.youtube.com 404
+
+[+]subdomain found http://v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atheeb-ruh1.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lax04s10.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nrt19s15.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.par08s05.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s07.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sjc07s14.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed7.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh1.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh3.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh8.v6.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.ams03g05.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.atheeb-ruh1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.bt-lhr1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fra07s06.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.gulfnet-kwi1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lattelecom-rix1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lax02s03.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.nrt19s03.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.sea09s03.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh5.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh6.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-ruh8.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stcigw-ruh1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.topnet-kbp1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.zainba-bah1.v7.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.fasttelco-kwi1.v8.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.lgupluswireline-gmp1.v8.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.megafon-ovb1.v8.lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o.preferred.stc-jed1.v8.lscache1.c.youtube.com 404
+http://r1.lvlt-mia1.c.youtube.com  req not possible
+
+[+]subdomain found http://o-o---preferred---lax04s14---v2---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---lvlt-iad1---v13---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5hn7sb76---v17---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5hn7zn7k---v5---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5uaezn7y---v11---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5uaezn7y---v22---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5uaezn7y---v6---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5uu-vgqe---v10---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5uu-vgqe---v23---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5uu-vgqe---v4---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-5uu-vgqe---v5---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-a5m7ln7s---v14---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-a5m7znez---v6---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-a8au-p5qs---v24---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-a8au-p5qs---v6---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ab5e6m7e---v2---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ab5e6m7e---v3---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ab5e6m7e---v7---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ab5e6nlz---v7---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-hp5e---v10---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-hp5e---v12---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-hp5e---v15---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-hp5e---v20---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-hp5e---v24---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-hp5e---v5---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-q4fe---v14---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-q4fe---v17---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-q4fe---v23---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-q4fe---v24---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-q4fe---v5---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-jvhj5nu-q4fe---v7---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-nwj7knee---v16---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-nwj7knee---v18---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-nwj7knle---v13---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-nwj7knle---v9---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v1---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v10---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v11---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v12---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v13---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v14---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v15---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v16---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v17---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v18---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v19---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v2---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v20---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v21---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v22---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v23---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v24---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v3---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v4---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v5---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v6---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v7---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v8---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-o097zne7---v9---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-p5q7yne7---v14---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-p5q7yne7---v17---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-p5q7yne7---v18---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-p5q7yne7---v8---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-p5q7ynel---v1---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-p5q7ynel---v24---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4e---v12---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4e---v15---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4e---v24---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4e---v3---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4e---v6---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4e---v9---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4l---v14---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4l---v23---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4l---v4---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4l---v5---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4l---v6---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-ponpbiu-nq4l---v9---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-q4f7dn7r---v15---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-q4f7dn7r---v5---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-q4f7dney---v23---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-q4f7dney---v9---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-tt17rn7e---v20---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-vgqeln76---v21---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-vgqeln76---v23---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-vgqeln76---v9---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-vgqeln7d---v3---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-vgqeln7d---v7---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-vgqeln7d---v8---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-vgqeln7d---v9---lscache1.c.youtube.com 404
+
+[+]subdomain found http://o-o---preferred---sn-x5guiapo3uxax-cbfe---v22---lscache1.c.youtube.com 404
+http://r13---dfw06s20.c.youtube.com  req not possible
+http://r13---iad23s01.c.youtube.com  req not possible
+http://r13---iad23s10.c.youtube.com  req not possible
+http://r17---dfw06s20.c.youtube.com  req not possible
+http://r17---iad23s10.c.youtube.com  req not possible
+http://r4---telgua-mga1.c.youtube.com  req not possible
+http://r5---fra07s40.c.youtube.com  req not possible
+http://r5---iad23s11.c.youtube.com  req not possible
+http://r5---lax02s10.c.youtube.com  req not possible
+http://r6---fra07t11.c.youtube.com  req not possible
+http://r7---twtelecom-iad1.c.youtube.com  req not possible
+http://r8---iad23t01.c.youtube.com  req not possible
+http://r8---lax04t01.c.youtube.com  req not possible
+http://r9---atl14s10.c.youtube.com  req not possible
+http://r9---iad09s20.c.youtube.com  req not possible
+http://r9---iad23s10.c.youtube.com  req not possible
+http://r6.uninet-pbc1.c.youtube.com  req not possible
+
+[-]http://ca.youtube.com  not http     200
+http://janus.ca1.youtube.com  req not possible
+
+[-]http://charts.youtube.com  not http     200
+
+[-]http://cms.youtube.com  not http     200
+http://admin.youtube.com<BR>uberproxy-san.youtube.com  req not possible
+
+[-]http://creatoracademy.youtube.com  not http     200
+http://cyc.youtube.com  req not possible
+
+[-]http://devicereport.youtube.com  not http     200
+http://edge-z-m-mini-shv-01-sit4.youtube.com  req not possible
+
+[+]subdomain found http://gdata.youtube.com 404
+http://stage.gdata.youtube.com  req not possible
+http://uploads.gdata.youtube.com  req not possible
+
+[-]http://il.youtube.com  not http     200
+
+[-]http://kids.youtube.com  not http     200
+http://g1-1-lax1-pr01.lax.youtube.com  req not possible
+
+[-]http://m.youtube.com  not http     200
+http://te1-2-mia1-br01.mia.youtube.com  req not possible
+http://te1-2-mia1-br02.mia.youtube.com  req not possible
+
+[-]http://movies.youtube.com  not http     200
+
+[-]http://music.youtube.com  not http     200
+
+[-]http://news.youtube.com  not http     200
+http://partner.youtube.com  req not possible
+http://s2.youtube.com  req not possible
+http://server.youtube.com  req not possible
+
+[+]subdomain found http://socialimpact.youtube.com 200
+
+[-]http://studio.youtube.com  not http     200
+
+[-]http://tv.youtube.com  not http     200
+
+[+]subdomain found http://tv-green-qa.youtube.com 404
+
+[+]subdomain found http://tv-release-qa.youtube.com 404
+http://v27.youtube.com  req not possible
+http://v39.youtube.com  req not possible
+
+[+]subdomain found http://vr.youtube.com 200
+
+[+]subdomain found http://web-green-qa.youtube.com 404
+
+[+]subdomain found http://web-release-qa.youtube.com 404
+http://web-trunk-qa.youtube.com  req not possible
+http://web46.youtube.com  req not possible
+
+[-]http://za.youtube.com  not http     200
+http://zggc.youtube.com  req not possible
+
