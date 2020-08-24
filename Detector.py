@@ -69,28 +69,29 @@ def main():
 	urlfile=options.urlfile
 	
 
-	
 	print " Cyb3rlant3rn here to help!!!!!!!!!!!!!!!!!!!!!!! "	
 	print "[1] Source code analzing"
-	print "[2] Check for http"
-	print "[3] Automate the nmap scan"
-	print "[4] Check for heartbleed"
+	print "[2] XSS finder"
+	print "[3] SSTI"
+	print "[4] Check for http"
+	print "[5] Automate the nmap scan"
+	print "[6] Check for heartbleed"
 	print "                           "
 	choice=raw_input("choice?")	
 	print ""
 	if choice == '1':
-		filep=open("url.txt",'r')
+		filep=open("urlfile",'r')
 		for i in filep.readlines():
 			i=i.strip('\n')
 			sendingreq(i)
-	elif choice=='2':
+	elif choice=='4':
 		httpdetection()
 		automate_nmap.display()
+	elif choice=='2':
+	    nmap_scan()
 	elif choice=='3':
-	   	nmap_scan()
-	elif choice=='4':
-	     	heart_bleed()
-	print "Please enter either 1,2,3,4"
+	     heart_bleed()
+	print "Please enter either 1,2,3,4,5 or 6"
 		
 		
 main()
